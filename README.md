@@ -26,7 +26,7 @@
 
 通过手机 IP 摄像头 APP 将手机画面实时传输到电脑进行检测：
 
-1. 手机下载 IP 摄像头类 APP（如 IP Webcam）
+1. 手机下载 IP 摄像头类 APP（如 IP摄像头）
 2. 确保手机和电脑连接同一 WiFi
 3. 将手机 APP 显示的流地址填入 `ip_webcam2prt.py` 的 `PHONE_CAMERA_URL` 变量
 4. 运行 `ip_webcam2prt.py` 开始实时检测，按 Q 退出
