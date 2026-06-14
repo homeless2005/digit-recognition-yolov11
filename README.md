@@ -1,0 +1,2 @@
+# digit-recognition_yolov11
+使用yolov11进行数字识别，提供数字识别数据集以及训练好的yolov11模型
